@@ -1,0 +1,12 @@
+{
+    "python.pythonPath": "C:\\Users\\Jack\\.virtualenvs\\mirlog-SC5lBp4F\\Scripts\\python.exe",
+    "python.venvPath": "C:\\Users\\Jack\\.virtualenvs\\mirlog-SC5lBp4F",
+    "editor.detectIndentation": false,
+    "python.linting.flake8Enabled": true,
+    "python.formatting.provider": "yapf",
+    "[python]": {
+        "editor.rulers": [
+            80
+        ]
+    },
+}
